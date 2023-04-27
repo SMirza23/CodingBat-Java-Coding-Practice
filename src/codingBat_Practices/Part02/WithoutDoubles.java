@@ -1,6 +1,6 @@
 package codingBat_Practices.Part02;
 
-public class withoutDoubles {
+public class WithoutDoubles {
     /*
 
 

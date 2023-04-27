@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class old35 {
+public class Old35 {
     public boolean old35(int n) {
         if(n % 15 == 0){ // the number is divisible by 3 and 5
             return false;

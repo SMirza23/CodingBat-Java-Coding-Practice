@@ -1,6 +1,6 @@
 package codingBat_Practices.Part02;
 
-public class fizzString {
+public class FizzString {
     public static void main(String[] args) {
 
 

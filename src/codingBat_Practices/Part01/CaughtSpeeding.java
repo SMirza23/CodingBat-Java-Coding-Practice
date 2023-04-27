@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class caughtSpeeding {
+public class CaughtSpeeding {
 
     public static void main(String[] args) {
         System.out.println(caughtSpeeding(80, false)); //1

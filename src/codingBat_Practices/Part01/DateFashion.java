@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class dateFashion {
+public class DateFashion {
 
     public static int dateFashion(int you, int date) {
 

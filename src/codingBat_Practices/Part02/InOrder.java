@@ -1,6 +1,6 @@
 package codingBat_Practices.Part02;
 
-public class inOrder {
+public class InOrder {
 
     public static class InOrder { // https://codingbat.com/prob/p154188
         public static boolean inOrder(int a, int b, int c, boolean bOk) {

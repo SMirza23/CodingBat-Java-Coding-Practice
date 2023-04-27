@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class cigarParty {
+public class CigarParty {
     public static boolean cigarParty(int cigars, boolean isWeekend) {
 
         boolean validRange = cigars >= 40 && cigars <= 60;

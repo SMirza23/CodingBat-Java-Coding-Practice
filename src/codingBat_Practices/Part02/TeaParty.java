@@ -1,6 +1,6 @@
 package codingBat_Practices.Part02;
 
-public class teaParty {
+public class TeaParty {
 
     public static void main(String[] args) {
         System.out.println(teaParty(6, 8)); //1

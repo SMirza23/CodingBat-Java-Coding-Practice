@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class alarmClock {
+public class AlarmClock {
     public static String alarmClock(int day, boolean vacation) {
 
         boolean isWeekend = day == 0 || day == 6;

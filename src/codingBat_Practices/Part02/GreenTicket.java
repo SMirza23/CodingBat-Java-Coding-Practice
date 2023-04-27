@@ -1,6 +1,6 @@
 package codingBat_Practices.Part02;
 
-public class greenTicket {// https://codingbat.com/prob/p120633
+public class GreenTicket {// https://codingbat.com/prob/p120633
     public static void main(String[] args) {
 
 

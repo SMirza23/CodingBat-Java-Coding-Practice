@@ -1,6 +1,6 @@
 package codingBat_Practices.Part02;
 
-public class lessByTen {
+public class LessByTen {
     /*
     Given three ints, a b c, return true if one of them is 10 or more less than one of the others.
 

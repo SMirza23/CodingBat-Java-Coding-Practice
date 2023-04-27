@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class love6 {
+public class Love6 {
 
     public static boolean love6(int a, int b) {
 

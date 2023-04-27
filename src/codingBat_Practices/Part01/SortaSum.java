@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class sortaSum {
+public class SortaSum {
 
     public static int sortaSum(int a, int b) {
         int sum = a + b;

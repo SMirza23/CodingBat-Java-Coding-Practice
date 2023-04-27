@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class more20 {
+public class More20 {
 
     public boolean more20(int n) { // https://codingbat.com/prob/p118290
         return n % 20 == 1 || n % 20 == 2;

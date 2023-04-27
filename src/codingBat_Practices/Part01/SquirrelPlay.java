@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class squirrelPlay {
+public class SquirrelPlay {
 
     public static boolean squirrelPlay(int temp, boolean isSummer) {
 

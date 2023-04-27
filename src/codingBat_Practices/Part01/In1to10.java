@@ -1,6 +1,6 @@
 package codingBat_Practices.Part01;
 
-public class in1to10 {
+public class In1to10 {
 
     // public boolean in1To10(int n, boolean outsideMode) {
 
