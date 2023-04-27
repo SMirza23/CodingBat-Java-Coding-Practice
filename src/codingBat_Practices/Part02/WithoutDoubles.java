@@ -1,6 +1,5 @@
 package codingBat_Practices.Part02;
 
-public class WithoutDoubles {
     /*
 
 
@@ -27,4 +26,4 @@ withoutDoubles(3, 3, false) → 6
         }
 
     }
-}
+

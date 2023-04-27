@@ -2,8 +2,7 @@ package codingBat_Practices.Part02;
 
 public class InOrder {
 
-    public static class InOrder { // https://codingbat.com/prob/p154188
-        public static boolean inOrder(int a, int b, int c, boolean bOk) {
+          public static boolean inOrder(int a, int b, int c, boolean bOk) {
 
             boolean boolC = c > b;
             boolean boolB = b > a;
@@ -31,13 +30,4 @@ inOrder(1, 1, 2, true) → true
      */
 
 
-    public boolean inOrder(int a, int b, int c, boolean bOk) {
 
-        boolean boolC = c > b;
-        boolean boolB = b > a;
-
-        return boolC && (bOk || boolB);
-
-    }
-
-}
